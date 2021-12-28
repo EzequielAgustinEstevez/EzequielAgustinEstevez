@@ -1,0 +1,5 @@
+- 👋 Hola, soy @EzequielAgustinEstevez desarollador web freelancer.
+- 👀 Estoy interesado en Frontend, pero también me gustaría involucrarme en Backend.
+- 🌱 Actualmente estoy estudiando Vue y buenas prácticas.
+- 💞️ Estoy interesado en ser parte de un grupo de desarrollo profesional, para aprender nuevas habilidades y trabajar en proyectos más grandes.
+- 📫 Como contactarme? Escribime a contacto@ezequielestevez.com
