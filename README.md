@@ -1,5 +1,5 @@
-- 👋 Hola, soy @EzequielAgustinEstevez desarollador web freelancer.
-- 👀 Estoy interesado en Frontend, pero también me gustaría involucrarme en Backend.
-- 🌱 Actualmente estoy estudiando React y buenas prácticas.
-- 💞️ Estoy interesado en ser parte de un grupo de desarrollo profesional, para aprender nuevas habilidades y trabajar en proyectos más grandes.
+- 👋 Hola, soy @EzequielAgustinEstevez desarollador FrontEnd.
+- 👀 Mi objetivo es lograr capacidades senior para impulsar tecnologias nuevas y crecer con el equipo.
+- 🌱 Actualmente estoy estudiando React-native, RTKQuery, TypeScript.
+- 💞️ Orguyosamente parte del equipo TELECOM - Personal Pay.
 - 📫 Como contactarme? Escribime a contacto@ezequielestevez.com
